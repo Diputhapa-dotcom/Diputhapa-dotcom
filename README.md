@@ -1,6 +1,10 @@
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
 <h3 align="left">Connect with me:</h3>
+<b> Facebook:</b>
+<p>https://www.facebook.com/magar.deepu.9</p>
+<b>Instagram:</b>
+<p> https://www.instagram.com/diputhapa_</p>
 <p align="left">
 </p>
 
