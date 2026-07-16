@@ -1,4 +1,4 @@
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">it's me dipuThapa</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <b> Facebook:</b>
